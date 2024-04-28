@@ -1,4 +1,4 @@
-# Web Server / Web Application Testing with OWASP Zap
+# Web Server / Web Application Testing with OWASP ZAP
 
 ![OWASP ZAP](https://github.com/Manny-D/Web-Application-Testing-OWASP-ZAP/assets/99146530/57ca2d3a-248c-4609-adff-a0434ecffabe)
 
